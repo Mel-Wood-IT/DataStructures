@@ -1,0 +1,14 @@
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C3\C3\C3\bin\Debug\C3.exe.config
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C3\C3\C3\bin\Debug\C3.exe
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C3\C3\C3\bin\Debug\C3.pdb
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C3\C3\C3\obj\Debug\C3.csproj.AssemblyReference.cache
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C3\C3\C3\obj\Debug\C3.csproj.CoreCompileInputs.cache
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C3\C3\C3\obj\Debug\C3.exe
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C3\C3\C3\obj\Debug\C3.pdb
+C:\Users\Melis\OneDrive\Desktop\C3\C3\bin\Debug\C3.exe.config
+C:\Users\Melis\OneDrive\Desktop\C3\C3\bin\Debug\C3.exe
+C:\Users\Melis\OneDrive\Desktop\C3\C3\bin\Debug\C3.pdb
+C:\Users\Melis\OneDrive\Desktop\C3\C3\obj\Debug\C3.csproj.AssemblyReference.cache
+C:\Users\Melis\OneDrive\Desktop\C3\C3\obj\Debug\C3.csproj.CoreCompileInputs.cache
+C:\Users\Melis\OneDrive\Desktop\C3\C3\obj\Debug\C3.exe
+C:\Users\Melis\OneDrive\Desktop\C3\C3\obj\Debug\C3.pdb
