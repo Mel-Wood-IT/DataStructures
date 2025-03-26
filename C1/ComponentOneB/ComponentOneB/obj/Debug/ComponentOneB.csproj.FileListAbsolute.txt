@@ -1,0 +1,7 @@
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C1\ComponentOneB\ComponentOneB\obj\Debug\ComponentOneB.csproj.AssemblyReference.cache
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C1\ComponentOneB\ComponentOneB\obj\Debug\ComponentOneB.csproj.CoreCompileInputs.cache
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C1\ComponentOneB\ComponentOneB\bin\Debug\ComponentOneB.exe.config
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C1\ComponentOneB\ComponentOneB\bin\Debug\ComponentOneB.exe
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C1\ComponentOneB\ComponentOneB\bin\Debug\ComponentOneB.pdb
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C1\ComponentOneB\ComponentOneB\obj\Debug\ComponentOneB.exe
+C:\Users\Melis\OneDrive\Desktop\Wintec\Year2Semester2\COMP605DataStructures\C1\ComponentOneB\ComponentOneB\obj\Debug\ComponentOneB.pdb
